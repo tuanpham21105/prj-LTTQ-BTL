@@ -34,9 +34,6 @@ x86/
 [Bb]uild[Ll]og.*
 
 # Auto-generated files
-*.Designer.cs
-*.generated.cs
-*.AssemblyInfo.cs
 
 # NuGet packages
 *.nupkg

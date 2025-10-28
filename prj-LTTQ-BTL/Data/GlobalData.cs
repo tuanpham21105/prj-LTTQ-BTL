@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace prj_LTTQ_BTL.Data
 {
-    internal class GlobalData
+    internal static class GlobalData
     {
-        public string role;
+        public static string role;
     }
 }

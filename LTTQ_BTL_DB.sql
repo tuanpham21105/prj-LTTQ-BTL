@@ -150,3 +150,17 @@ CREATE TABLE Payment (
     FOREIGN KEY (enrollment_id) REFERENCES Enrollment(id)
 );
 GO
+
+-- ==============================
+-- Table: Score
+-- ==============================
+
+CREATE TABLE Score (
+    student_id UNIQUEIDENTIFIER NOT NULL,
+    class_id UNIQUEIDENTIFIER NOT NULL,
+    score DECIMAL(5,2) CHECK (score >= 0 AND score <= 10),
+    created_date DATETIME DEFAULT GETDATE(),
+    FOREIGN KEY (student_id) REFERENCES Student(id),
+    FOREIGN KEY (class_id) REFERENCES Class(id)
+);
+GO
