@@ -8,6 +8,7 @@ namespace prj_LTTQ_BTL.Data
 {
     internal static class GlobalData
     {
-        public static string role;
+        public static string Role;
+        public static string Id;
     }
 }
