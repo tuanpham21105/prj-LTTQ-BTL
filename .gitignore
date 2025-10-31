@@ -1,6 +1,6 @@
 # User-specific files
 .vs/
-
+prj-LTTQ-BTL/.vs/
 *.suo
 *.user
 *.userosscache

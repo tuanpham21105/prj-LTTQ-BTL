@@ -6,7 +6,6 @@ using System.Windows.Forms;
 using prj_LTTQ_BTL.Forms;
 using prj_LTTQ_BTL.Forms.Student;
 
-
 namespace prj_LTTQ_BTL
 {
     internal static class Program
