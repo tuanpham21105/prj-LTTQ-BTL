@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\OneDrive\\Desktop\\DH\\prj-LTTQ-BTL\\",
+  "WorkspaceRootPath": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|e:\\onedrive\\desktop\\dh\\prj-lttq-btl\\prj-lttq-btl\\data\\globaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|solutionrelative:prj-lttq-btl\\data\\globaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|d:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\btl_lttq\\prj-lttq-btl\\prj-lttq-btl\\teacher\\teachermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|solutionrelative:prj-lttq-btl\\teacher\\teachermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-lttq-btl\\teacher\\teachermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|solutionrelative:prj-lttq-btl\\teacher\\teachermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-lttq-btl\\manager\\managermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|solutionrelative:prj-lttq-btl\\manager\\managermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-lttq-btl\\teacher\\teachermenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|solutionrelative:prj-lttq-btl\\teacher\\teachermenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-lttq-btl\\manager\\managermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|solutionrelative:prj-lttq-btl\\manager\\managermenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-lttq-btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|solutionrelative:prj-lttq-btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Data\\DataProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|solutionrelative:prj-LTTQ-BTL\\Data\\DataProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-lttq-btl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C03EB53-EDE5-4427-AA56-76B5DB0A9B35}|prj-LTTQ-BTL\\prj-LTTQ-BTL.csproj|solutionrelative:prj-lttq-btl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,25 +41,118 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 323,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherMenuForm.Designer.cs",
+              "DocumentMoniker": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.Designer.cs",
+              "ToolTip": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.Designer.cs",
+              "RelativeToolTip": "prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:31:44.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherMenuForm.cs",
+              "DocumentMoniker": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.cs",
+              "RelativeDocumentMoniker": "prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.cs",
+              "ToolTip": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.cs",
+              "RelativeToolTip": "prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:29:32.044Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GlobalData.cs",
-              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Data\\GlobalData.cs",
-              "RelativeDocumentMoniker": "prj-LTTQ-BTL\\Data\\GlobalData.cs",
-              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Data\\GlobalData.cs",
-              "RelativeToolTip": "prj-LTTQ-BTL\\Data\\GlobalData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "TeacherMenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.cs",
+              "RelativeDocumentMoniker": "prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.cs",
+              "ToolTip": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.cs [Design]",
+              "RelativeToolTip": "prj-LTTQ-BTL\\Teacher\\TeacherMenuForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T16:01:37.234Z",
+              "WhenOpened": "2025-10-30T13:29:29.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Program.cs",
+              "RelativeDocumentMoniker": "prj-LTTQ-BTL\\Program.cs",
+              "ToolTip": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Program.cs",
+              "RelativeToolTip": "prj-LTTQ-BTL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:40:26.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerMenuForm.cs",
+              "DocumentMoniker": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Manager\\ManagerMenuForm.cs",
+              "RelativeDocumentMoniker": "prj-LTTQ-BTL\\Manager\\ManagerMenuForm.cs",
+              "ToolTip": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Manager\\ManagerMenuForm.cs",
+              "RelativeToolTip": "prj-LTTQ-BTL\\Manager\\ManagerMenuForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAlwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:12:53.314Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerMenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Manager\\ManagerMenuForm.cs",
+              "RelativeDocumentMoniker": "prj-LTTQ-BTL\\Manager\\ManagerMenuForm.cs",
+              "ToolTip": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Manager\\ManagerMenuForm.cs [Design]",
+              "RelativeToolTip": "prj-LTTQ-BTL\\Manager\\ManagerMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:57:52.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataProcessor.cs",
+              "DocumentMoniker": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Data\\DataProcessor.cs",
+              "RelativeDocumentMoniker": "prj-LTTQ-BTL\\Data\\DataProcessor.cs",
+              "ToolTip": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Data\\DataProcessor.cs",
+              "RelativeToolTip": "prj-LTTQ-BTL\\Data\\DataProcessor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T06:39:06.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Form1.cs",
+              "RelativeDocumentMoniker": "prj-LTTQ-BTL\\Form1.cs",
+              "ToolTip": "D:\\ki 5\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL_LTTQ\\prj-LTTQ-BTL\\prj-LTTQ-BTL\\Form1.cs [Design]",
+              "RelativeToolTip": "prj-LTTQ-BTL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T06:38:25.613Z"
             }
           ]
         }
