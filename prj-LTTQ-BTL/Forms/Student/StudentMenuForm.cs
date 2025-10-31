@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -34,10 +35,12 @@ namespace prj_LTTQ_BTL.Forms.Student
         public StudentMenuForm()
         {
             InitializeComponent();
-            InititalizeUI();
+            InitializeUI();
+            InitializeEvent();
+
         }
 
-        private void InititalizeUI()
+        private void InitializeUI()
         {
             // 🪟 Form setup
             this.Text = "Student Menu";
@@ -141,44 +144,39 @@ namespace prj_LTTQ_BTL.Forms.Student
             panelHeader.Controls.Add(btnMaximize);
             panelHeader.Controls.Add(btnClose);
 
-            // 📦 Sidebar logo
-            //logoBox = new PictureBox
-            //{
-            //    Image = Properties.Resources, // hoặc thay ảnh khác
-            //    SizeMode = PictureBoxSizeMode.Zoom,
-            //    Size = new Size(80, 80),
-            //    Dock = DockStyle.Top,
-            //    Margin = new Padding(0, 10, 0, 10)
-            //};
-            //panelSidebar.Controls.Add(logoBox);
+            var brandPanel = new Guna2Panel
+            {
+                Dock = DockStyle.Top,
+                Height = 80,
+                BackColor = Color.Transparent,
+                Padding = new Padding(10, 15, 10, 15),
+            };
 
-            var brandPanel = new Guna2Panel { 
-                Dock = DockStyle.Top, Height = 80, 
-                BackColor = Color.Transparent, 
-                Padding = new Padding(10, 15, 10, 15), 
-            }; 
-            
-            var lblBrand = new Label { 
-                Text = "OwlEng", 
-                Font = new Font("Segoe UI Black", 20, FontStyle.Bold), 
-                ForeColor = Color.White, 
-                Dock = DockStyle.Left, 
-                TextAlign = ContentAlignment.MiddleLeft, 
-                AutoSize = false, 
-                Width = 150, 
-                BackColor = Color.Transparent 
-            }; 
-            brandPanel.Controls.Add(lblBrand); 
-            var picBrand = new Guna2PictureBox { 
-                Dock = DockStyle.Left, 
-                Size = new Size(50, 50), 
-                ImageRotate = 0f, 
-                FillColor = Color.Transparent, 
-                SizeMode = PictureBoxSizeMode.Zoom, 
-                Image = Image.FromFile(Application.StartupPath + @"\Images\owl.png"), 
-                Cursor = Cursors.Default, BackColor = Color.Transparent 
+            var lblBrand = new Label
+            {
+                Text = "OwlEng",
+                Font = new Font("Segoe UI Black", 20, FontStyle.Bold),
+                ForeColor = Color.White,
+                Dock = DockStyle.Left,
+                TextAlign = ContentAlignment.MiddleLeft,
+                AutoSize = false,
+                Width = 150,
+                BackColor = Color.Transparent
+            };
+            brandPanel.Controls.Add(lblBrand);
+            var picBrand = new Guna2PictureBox
+            {
+                Dock = DockStyle.Left,
+                Size = new Size(50, 50),
+                ImageRotate = 0f,
+                FillColor = Color.Transparent,
+                SizeMode = PictureBoxSizeMode.Zoom,
+                Image = Image.FromFile(Directory.GetParent(Application.StartupPath).Parent.FullName + @"\Images\owl.png"),
+                Cursor = Cursors.Default,
+                BackColor = Color.Transparent
             };
             brandPanel.Controls.Add(picBrand);
+
 
             // 📚 Sidebar buttons
             btnTTHV = CreateSidebarButton("👤Thông tin học viên");
@@ -195,6 +193,7 @@ namespace prj_LTTQ_BTL.Forms.Student
             panelSidebar.Controls.Add(btnLH);
             panelSidebar.Controls.Add(btnTTHV);
             panelSidebar.Controls.Add(brandPanel);
+
         }
 
         private Guna2Button CreateSidebarButton(string text)
@@ -224,9 +223,58 @@ namespace prj_LTTQ_BTL.Forms.Student
             return btn;
         }
 
+        private void InitializeEvent()
+        {
+
+            btnTTHV.Click += (s, e) =>
+            {
+                SidebarBtn_Click(typeof(Form1), btnTTHV);
+            };
+
+            btnLH.Click += (s, e) =>
+            {
+                SidebarBtn_Click(typeof(Form1), btnLH);
+            };
+
+            btnDKLH.Click += (s, e) =>
+            {
+                SidebarBtn_Click(typeof(Form1), btnDKLH);
+            };
+
+            btnKH.Click += (s, e) =>
+            {
+                SidebarBtn_Click(typeof(Form1), btnKH);
+            };
+
+            btnDSGV.Click += (s, e) =>
+            {
+                SidebarBtn_Click(typeof(Form1), btnDSGV);
+            };
+
+            btnHP.Click += (s, e) =>
+            {
+                SidebarBtn_Click(typeof(Form1), btnHP);
+            };
+        }
+
         private void StudentMenuForm_Load(object sender, EventArgs e)
         {
 
         }
+
+        private void SidebarBtn_Click(Type type, Guna2Button btn)
+        {
+            btnTTHV.BackColor = Color.Transparent;
+            btnLH.BackColor = Color.Transparent;
+            btnDKLH.BackColor = Color.Transparent;
+            btnKH.BackColor = Color.Transparent;
+            btnDSGV.BackColor = Color.Transparent;
+            btnHP.BackColor = Color.Transparent;
+
+            btn.BackColor = secondaryColor;
+
+
+        }
+
     }
 }

@@ -118,8 +118,8 @@
   <ItemGroup>
     <Content Include="bin\Debug\prj-LTTQ-BTL.exe" />
     <Content Include="bin\Debug\prj-LTTQ-BTL.pdb" />
+    <Content Include="Images\owl.png" />
     <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
-    <Content Include="bin\Debug\Images\owl.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Release\" />
