@@ -1,6 +1,6 @@
-﻿namespace prj_LTTQ_BTL
+﻿namespace prj_LTTQ_BTL.Forms.Student
 {
-    partial class Form1
+    partial class Student_CourseCRUDForm
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // FormStudent_CourseCRUD
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "FormStudent_CourseCRUD";
+            this.Text = "FormStudent_CourseCRUD";
+            this.Load += new System.EventHandler(this.FormStudent_CourseCRUD_Load);
             this.ResumeLayout(false);
 
         }
